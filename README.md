@@ -30,6 +30,9 @@ Rigor: 2/2
 
 The final mark was 14.5 of 21
 
-## More
+## Mainteners
+
+Léo Dubosclard - [LinkedIn](https://linkedin.com/in/leo-dubosclard)<br/>
+Maxime Dziura - [LinkedIn](https://www.linkedin.com/in/maxime-dziura-918182228/)
 
 See you soon ;) !
